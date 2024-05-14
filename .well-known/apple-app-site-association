@@ -1,12 +1,14 @@
 {
- "applinks": {
-    "apps": [],
-  "details": [
-  { 
-   "appID": ["5584UXNC99.style-x.StyleBook-Sample"],
-   "paths" : ["*"]
-      }
-    ]
+ "applinks":{
+    "apps":[],
+    "details": [
+  {
+ "appIDs": "5584UXNC99.style-x.StyleBook-Sample",
+  "paths": ["*"]
   }
-  
+]
+},
+"webcredentials":{
+  "apps":[ "5584UXNC99.style-x.StyleBook-Sample"]
+}
 }
